@@ -1,2 +1,2 @@
 # design
-![](./img/screen1.png)
+![](./portfolio/img/screen.png)
